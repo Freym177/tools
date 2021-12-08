@@ -1,4 +1,4 @@
 {
     "updateurl": "https://freym-tech.xyz/contentj/afktools.lua",
-    "latest": "7.6"
+    "latest": "7.2"
 }

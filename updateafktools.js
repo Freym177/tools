@@ -1,4 +1,4 @@
 {
-    "updateurl": "http://freym-tech.xyz/gallery/afktools.js",
+    "updateurl": "https://github.com/Freym177/tools/blob/main/afktools.lua?raw=true",
     "latest": "8.3"
 }

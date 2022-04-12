@@ -1,4 +1,4 @@
 {
-    "updateurl": "https://freym-tech.xyz/contentj/afktools.lua",
-    "latest": "7.1"
+    "updateurl": "http://freym-tech.xyz/gallery/afktools.js",
+    "latest": "8.3"
 }

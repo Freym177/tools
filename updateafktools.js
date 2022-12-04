@@ -1,4 +1,4 @@
 {
     "updateurl": "https://github.com/Freym177/tools/blob/main/afktools.lua?raw=true",
-    "latest": "11.8"
+    "latest": "12.0"
 }

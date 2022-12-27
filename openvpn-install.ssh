@@ -95,7 +95,7 @@ new_client () {
 	echo "<tls-crypt>"
 	sed -ne '/BEGIN OpenVPN Static key/,$ p' /etc/openvpn/server/tc.key
 	echo "</tls-crypt>"
-	} > /home/b"$client"b"$get_public_ip".ovpn
+	} > /home/azureuser/"$client"_"$get_public_ip".ovpn
 }
 
 if [[ ! -e /etc/openvpn/server/server.conf ]]; then

@@ -4,7 +4,7 @@
 #
 # Copyright (c) 2013 Nyr. Released under the MIT License.
 
-	local_ip="10.3.1.0" #		"$local_ip"
+	local_ip="10.7.1.0" #		"$local_ip"
 
 # Detect Debian users running the script with "sh" instead of bash
 if readlink /proc/$$/exe | grep -q "dash"; then
